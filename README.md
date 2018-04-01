@@ -1,2 +1,2 @@
 # Personal Website
-[emmagordon.software](https://www.emmagordon.software)
+[emmagordon.software](http://www.emmagordon.software)
